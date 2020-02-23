@@ -54,4 +54,53 @@ public class HomePage extends HomePageWE {
         sleepFor(5);
     }
 
+    @FindBy(xpath = xPathResizable)
+    WebElement Resizable;
+    public void Checkresizable() throws InterruptedException {
+        clickByXpath(xPathResizable);
+        //iframeHandle(ResizeFrame);
+        sleepFor(5);
+       resizeElement(xPathResizeFrame,xPathResizeArrow);
+        sleepFor(5);
+    }
+    @FindBy(xpath = xPathContribute)
+    WebElement Contiribute;
+    public void CheckContribute() throws InterruptedException {
+        sleepFor(3);
+        mouseHoverByXpath(xPathContribute);
+        sleepFor(3);
+        clickByXpath(xPathCode);
+        sleepFor(3);
+    }
+    @FindBy(xpath = xPathTabs)
+    WebElement Tabs;
+    public void CheckTabs() throws InterruptedException {
+        sleepFor(3);
+        clickByXpath(xPathTabs);
+
+    }
+    @FindBy(how = How.XPATH, using = xPathDialogiFrame)
+    public static WebElement dialogiFrame;
+
+    public static WebElement getDialogiFrame(){
+        return dialogiFrame;
+    }
+
+    @FindBy(how = How.XPATH, using = xPathJQuerySelectMenuIFrmae)
+    public static WebElement selectMenuIFrame;
+    public static WebElement getSelectMenuIFrame(){
+        return selectMenuIFrame;
+    }
+    @FindBy(how= How.XPATH, using = xPathJQueryCalenderIFrame)
+    public static WebElement calenderIFrame;
+    public static WebElement getCalenerIFrame(){
+        return calenderIFrame;
+    }
+    @FindBy(how = How.XPATH, using = xPathPracticeOpenNewTab)
+    public static WebElement practiceOpenNewTab;
+    public static WebElement getPracticeOpenNewTab(){
+        return practiceOpenNewTab;
+    }
+
+
 }

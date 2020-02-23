@@ -11,6 +11,7 @@
     <modules>
         <module>Generic</module>
         <module>jQueryUi</module>
+        <module>kodeIt</module>
     </modules>
     <dependencyManagement>
         <dependencies>
@@ -96,7 +97,12 @@
                 <artifactId>cucumber-java</artifactId>
                 <version>5.1.3</version>
             </dependency>
-
+            <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+            <dependency>
+                <groupId>io.cucumber</groupId>
+                <artifactId>cucumber-java</artifactId>
+                <version>5.0.0</version>
+            </dependency>
             <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
             <dependency>
                 <groupId>io.cucumber</groupId>
@@ -112,7 +118,12 @@
                 <version>4.12</version>
                 <scope>test</scope>
             </dependency>
-
+            <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
+            <dependency>
+                <groupId>io.cucumber</groupId>
+                <artifactId>cucumber-testng</artifactId>
+                <version>5.1.3</version>
+            </dependency>
         </dependencies>
 
 

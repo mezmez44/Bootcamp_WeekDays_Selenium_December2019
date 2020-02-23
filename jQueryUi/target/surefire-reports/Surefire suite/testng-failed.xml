@@ -8,9 +8,11 @@
           <include name="afterEachTestMethod"/>
           <include name="setUp"/>
           <include name="testDroppable"/>
+          <include name="testCheckBox"/>
           <include name="startExtent"/>
           <include name="generateReport"/>
           <include name="cleanUp"/>
+          <include name="testCheckBoxRadio"/>
           <include name="extentSetup"/>
         </methods>
       </class> <!-- testHomePage.TestHomePage -->
