@@ -12,6 +12,7 @@
         <module>Generic</module>
         <module>jQueryUi</module>
         <module>kodeIt</module>
+        <module>google</module>
     </modules>
     <dependencyManagement>
         <dependencies>

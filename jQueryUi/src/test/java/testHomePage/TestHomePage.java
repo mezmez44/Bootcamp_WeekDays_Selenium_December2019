@@ -18,7 +18,7 @@ public class TestHomePage extends HomePage {
     }
 @Test(priority = 2)
 public void testCheckBox() throws InterruptedException {
-
+    PageFactory.initElements(driver, HomePage.class);
     driver.manage().window().maximize();
     sleepFor(2);
     CheckBox();
@@ -26,7 +26,7 @@ public void testCheckBox() throws InterruptedException {
 }
 @Test(priority = 3)
 public void testDroppable() throws InterruptedException {
-
+    PageFactory.initElements(driver, HomePage.class);
     driver.manage().window().maximize();
     sleepFor(3);
     CheckDroppable();
@@ -50,18 +50,20 @@ public void testDroppable() throws InterruptedException {
     }
     @Test(priority = 6)
     public void testIsPopUpDisplayed(){
+        PageFactory.initElements(driver, HomePage.class);
         driver.manage().window().maximize();
-        //getInItElements();
         clickOnElement(xPathDialogTab);
-        //clickOnElement(xPathDialogiFrame);
+        clickOnElement(xPathDialogiFrame);
         Assert.assertTrue(driver.findElement(By.xpath(xPathDialogPopUp)).isDisplayed());
     }
     @Test (priority = 7)
-    public void testIsPopUpClosed() {
+    public void testIsPopUpClosed() throws InterruptedException {
 
         clickOnElement(xPathDialogTab);
         iframeHandle(dialogiFrame);
-        clickOnElement("/html[1]/body[1]/div[1]/div[1]");
+        sleepFor(2);
+        clickOnElement("//span[@class='ui-button-icon ui-icon ui-icon-closethick']");
+        sleepFor(2);
         driver.switchTo().alert().accept();
     }
     @Test(priority = 8)
