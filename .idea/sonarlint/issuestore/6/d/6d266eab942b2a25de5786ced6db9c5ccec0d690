@@ -1,0 +1,25 @@
+
+Vsquid:S1854."8Remove this useless assignment to local variable "list".(ŠŒÖ8×ÖÊ²†.
+Lsquid:S1481")Remove this unused "list" local variable.(Ç«™—ÿÿÿÿÿ8×ÖÊ²†.
+³%squid:RedundantThrowsDeclarationCheck-"{Remove the declaration of thrown exception 'java.lang.ClassNotFoundException' which is a subclass of 'java.lang.Exception'.(Ô’”î8×ÖÊ²†.
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(‘Ú–ôøÿÿÿÿ8°òá²†.
+nsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8°òá²†.
+¨%squid:RedundantThrowsDeclarationCheck-"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(Ô’”î8ƒ¥Í²†.
+wsquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼8°òá²†.
+esquid:S00112:"FDefine and throw a dedicated exception instead of using a generic one.(Íååô8°òá²†.
+wsquid:S3012F"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ŸÜ”å8°òá²†.
+Ssquid:S1444"0Make this "public static dataReader" field final(Õ„ø‰ùÿÿÿÿ8×ÖÊ²†.
+nsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(ÖÖßşùÿÿÿÿ8°òá²†.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«Çœ¯úÿÿÿÿ8×ÖÊ²†.
+zsquid:S14886"\Immediately return this expression instead of assigning it to the temporary variable "data".(Ò¢Ãº8×ÖÊ²†.
+"squid:ClassVariableVisibilityCheck"VMake dataReader a static final constant or non-public and provide accessors if needed.(Õ„ø‰ùÿÿÿÿ8×ÖÊ²†.
+|squid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ø‰çûÿÿÿÿ8×ÖÊ²†.
+¦%squid:RedundantThrowsDeclarationCheck:"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(Íååô8°òá²†.
+¨%squid:RedundantThrowsDeclarationCheck:"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(Íååô8°òá²†.
+[squid:S1854"8Remove this useless assignment to local variable "list".(Ç«™—ÿÿÿÿÿ8×ÖÊ²†.
+Rsquid:S1444"4Make this "public static connectToSqlDB" field final(³³¨Õ8×ÖÊ²†.
+¦%squid:RedundantThrowsDeclarationCheck-"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(Ô’”î8êÈÌ²†.
+³%squid:RedundantThrowsDeclarationCheck:"{Remove the declaration of thrown exception 'java.lang.ClassNotFoundException' which is a subclass of 'java.lang.Exception'.(Íååô8°òá²†.
+"squid:ClassVariableVisibilityCheck"ZMake connectToSqlDB a static final constant or non-public and provide accessors if needed.(³³¨Õ8×ÖÊ²†.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯’¥ıÿÿÿÿ8×ÖÊ²†.

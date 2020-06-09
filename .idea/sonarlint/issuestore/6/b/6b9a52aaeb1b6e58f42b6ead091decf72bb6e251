@@ -1,0 +1,40 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "data".(”ú¯‰8œÒäÑ‰.
+e
+java:S2259O"CA "NullPointerException" could be thrown; "value" is nullable here.(¥ëÿíıÿÿÿÿ8œÒäÑ‰.
+V
+java:S1874K"9Remove this use of "CELL_TYPE_BOOLEAN"; it is deprecated.(ƒ´Ã¼8œÒäÑ‰.
+s
+java:S3252H"QUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_STRING".(øØ¦Îüÿÿÿÿ8œÒäÑ‰.
+R
+java:S2696T"6Make the enclosing method "static" or remove this set.(¡õ8œÒäÑ‰.
+o
+java:S3252K"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BOOLEAN".(ƒ´Ã¼8œÒäÑ‰.
+Z
+java:S11178"8Rename "cell" which hides the field declared at line 18.(ŞŠ£Óıÿÿÿÿ8œÒäÑ‰.
+X
+java:S26961"6Make the enclosing method "static" or remove this set.(åò«ùÿÿÿÿ8œÒäÑ‰.
+X
+java:S26962"6Make the enclosing method "static" or remove this set.(ãŸÀ»ÿÿÿÿÿ8œÒäÑ‰.
+o
+java:S3252E"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_NUMERIC".(û›¸å8œÒäÑ‰.
+K
+java:S1659")Declare "numberOfCol" on a separate line.(Ö™Àªÿÿÿÿÿ8œÒäÑ‰.
+P
+java:S1874C"3Remove this use of "getCellType"; it is deprecated.(™Öõ¸8œÒäÑ‰.
+R
+java:S26960"6Make the enclosing method "static" or remove this set.(Ú¯ÔH8œÒäÑ‰.
+Z
+java:S1854,"8Remove this useless assignment to local variable "data".(íÉÑŠÿÿÿÿÿ8œÒäÑ‰.
+>	java:S131D""Add a default case to this switch.(ÚÆ§î8œÒäÑ‰.
+V
+java:S1874E"9Remove this use of "CELL_TYPE_NUMERIC"; it is deprecated.(û›¸å8œÒäÑ‰.
+Z
+java:S1874H"8Remove this use of "CELL_TYPE_STRING"; it is deprecated.(øØ¦Îüÿÿÿÿ8œÒäÑ‰.
+F
+java:S1659"$Declare "rowNum" on a separate line.(Ö™Àªÿÿÿÿÿ8œÒäÑ‰.
+X
+java:S2696/"6Make the enclosing method "static" or remove this set.(ºáÇŞùÿÿÿÿ8œÒäÑ‰.
+X
+java:S2696U"6Make the enclosing method "static" or remove this set.(÷Ğî™üÿÿÿÿ8œÒäÑ‰.

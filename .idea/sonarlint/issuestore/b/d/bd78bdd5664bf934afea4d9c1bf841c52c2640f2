@@ -1,0 +1,9 @@
+
+Qsquid:S1118	":Add a private constructor to hide the implicit public one.(ñ«ê¿
+usquid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(◊…˜∆˙ˇˇˇˇ
+Csquid:S1905"'Remove this unnecessary cast to "long".(îŒ∞∞˛ˇˇˇˇ
+>squid:S1905"'Remove this unnecessary cast to "long".(Ê ﬁÄ
+>squid:S1905"'Remove this unnecessary cast to "long".(àÜÌã
+Gsquid:S1172"0Remove this unused method parameter "className".(Û–Àã
+>squid:S1905 "'Remove this unnecessary cast to "long".(àÜÌã

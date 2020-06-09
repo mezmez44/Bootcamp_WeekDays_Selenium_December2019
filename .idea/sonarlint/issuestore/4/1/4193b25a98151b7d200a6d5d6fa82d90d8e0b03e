@@ -1,0 +1,22 @@
+
+Lsquid:S1444"0Make this "public static radioFrame" field final(ĞÔÎùÿÿÿÿ
+Psquid:S1444S"2Make this "public static dialogiFrame" field final(ˆÊäû8Òïå‡.
+msquid:S00116"PRename this field "Radio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ê¯©ÿÿÿÿÿ
+usquid:S00116C"VRename this field "Contiribute" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´é„ú8Îüµ†.
+nsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(îùÂùÿÿÿÿ8ğÈ—¯†.
+Tsquid:S1444Z"6Make this "public static selectMenuIFrame" field final(°öæ¶8ıÒûœ‡.
+Rsquid:S1444_"4Make this "public static calenderIFrame" field final(¡À¸8øÃ¹‡.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é÷Ôãùÿÿÿÿ8óİîµ†.
+msquid:S00100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šîÏû8óİîµ†.
+ssquid:S00116:"TRename this field "Resizable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄìÙÈ8ÁÈê®†.
+Fsquid:S1444+"/Make this "public static DropFrame" field final(Ì—ôÏ
+ksquid:S3008+"TRename this field "DropFrame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì—ôÏ
+psquid:S00116"SRename this field "BoxRadio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÛğêıÿÿÿÿ
+ssquid:S00116L"ORename this field "Tabs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÔŸşÿÿÿÿ8‚ —¶†.
+msquid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ† ¾8óİîµ†.
+qsquid:S001160"TRename this field "Droppable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‡óëúÿÿÿÿ
+Vsquid:S1444d"8Make this "public static practiceOpenNewTab" field final(Ñ˜ï8€‚¼‡.
+msquid:S00100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÉµ•8‚ —¶†.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ûØâûÿÿÿÿ8óİîµ†.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆÍõÊıÿÿÿÿ
+lsquid:S00100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÄĞ8óİîµ†.

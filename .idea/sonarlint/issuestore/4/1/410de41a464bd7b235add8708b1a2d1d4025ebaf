@@ -1,0 +1,148 @@
+
+[	java:S106Û"9Replace this use of System.out or System.err by a logger.(‹ø€“øÿÿÿÿ8ï‡Èü‘.
+‚	java:S116g"aRename this field "browserstack_accesskey" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¬³‰øÿÿÿÿ8ï‡Èü‘.
+}
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "st".(¯ñşÿÿÿÿ8ï‡Èü‘.
+„
+java:S1104g"bMake browserstack_accesskey a static final constant or non-public and provide accessors if needed.(„¬³‰øÿÿÿÿ8ï‡Èü‘.
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(ó–‹áüÿÿÿÿ8ï‡Èü‘.
+[
+java:S1854ğ"8Remove this useless assignment to local variable "list".(“Ç¬üÿÿÿÿ8ï‡Èü‘.
+S
+java:S2696«"6Make the enclosing method "static" or remove this set.(À“§.8ï‡Èü‘.
+w
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö¤“ú8ï‡Èü‘.
+|
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ç¬üÿÿÿÿ8ï‡Èü‘.
+V	java:S106•"9Replace this use of System.out or System.err by a logger.(ı‹ˆ8ï‡Èü‘.
+Q
+java:S14815"/Remove this unused "methodName" local variable.(ÆÛÒşÿÿÿÿ8ï‡Èü‘.
+m	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†÷ÆD8ï‡Èü‘.
+T
+java:S2696˜"6Make the enclosing method "static" or remove this set.(Âéã±8ï‡Èü‘.
+V
+java:S1854Û"8Remove this useless assignment to local variable "file".(¨é÷è8ï‡Èü‘.
+X	java:S125p"<This block of commented-out lines of code should be removed.(¿ı¨™8ï‡Èü‘.
+Y
+java:S2696‘"6Make the enclosing method "static" or remove this set.(¯ƒÊşÿÿÿÿ8ï‡Èü‘.
+[	java:S106İ"9Replace this use of System.out or System.err by a logger.(–ø¶ºüÿÿÿÿ8ï‡Èü‘.
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ€ª³8ï‡Èü‘.
+k
+java:S1192„"HDefine a constant instead of duplicating this literal "Windows" 3 times.(¡±”ıÿÿÿÿ8ï‡Èü‘.
+|
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(©‘ äüÿÿÿÿ8ï‡Èü‘.
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(ìÒÜæ8ï‡Èü‘.
+^
+java:S1854Ø";Remove this useless assignment to local variable "element".(©‘ äüÿÿÿÿ8ï‡Èü‘.
+J
+java:S1125q"(Remove the literal "true" boolean value.(Îï¡¥ÿÿÿÿÿ8ï‡Èü‘.
+€
+java:S1488ˆ"]Immediately return this expression instead of assigning it to the temporary variable "value".(´¶‚Ùùÿÿÿÿ8ï‡Èü‘.
+[	java:S106ğ"9Replace this use of System.out or System.err by a logger.(–ø¶ºüÿÿÿÿ8ï‡Èü‘.
+V	java:S106à"9Replace this use of System.out or System.err by a logger.(å£Ÿë8ï‡Èü‘.
+V	java:S106ó"9Replace this use of System.out or System.err by a logger.(å£Ÿë8ï‡Èü‘.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ãæ8ï‡Èü‘.
+S
+java:S2696¯"6Make the enclosing method "static" or remove this set.(À“§.8ï‡Èü‘.
+w
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¦£Ç8ï‡Èü‘.
+y
+java:S1488ö"[Immediately return this expression instead of assigning it to the temporary variable "url".(˜±¤8ï‡Èü‘.
+m	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İã¿8ï‡Èü‘.
+V	java:S106Ù"9Replace this use of System.out or System.err by a logger.(½¿¿¢8ï‡Èü‘.
+w
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö¤“ú8ï‡Èü‘.
+s	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Á‚ıÿÿÿÿ8ï‡Èü‘.
+n	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´îªû8ï‡Èü‘.
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(¤øĞôøÿÿÿÿ8ï‡Èü‘.
+t
+java:S1104*"RMake extent a static final constant or non-public and provide accessors if needed.(ÆÍ¿…øÿÿÿÿ8ï‡Èü‘.
+{
+java:S1192ƒ"XDefine a constant instead of duplicating this literal "webdriver.chrome.driver" 4 times.(«­Æ×ıÿÿÿÿ8ï‡Èü‘.
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(ßÑÿ²8ï‡Èü‘.
+^	java:S125·"<This block of commented-out lines of code should be removed.(—ÈÉ¿ıÿÿÿÿ8ï‡Èü‘.
+J
+java:S1481ì",Remove this unused "element" local variable.(½Éı8ï‡Èü‘.
+s	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğœºÑùÿÿÿÿ8ï‡Èü‘.
+Š
+java:S1130Ú"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(íÊåë8ï‡Èü‘.
+V	java:S106ì"9Replace this use of System.out or System.err by a logger.(½¿¿¢8ï‡Èü‘.
+X
+java:S2696/"6Make the enclosing method "static" or remove this set.(û´Šèüÿÿÿÿ8ï‡Èü‘.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(È¦¹õıÿÿÿÿ8ï‡Èü‘.
+|	java:S116f"`Rename this field "browserstack_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¥˜”8ï‡Èü‘.
+^
+java:S1854â";Remove this useless assignment to local variable "element".(¥Úóşÿÿÿÿ8ï‡Èü‘.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(çÂêúıÿÿÿÿ8ï‡Èü‘.
+|
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ç¬üÿÿÿÿ8ï‡Èü‘.
+U	java:S106‹"9Replace this use of System.out or System.err by a logger.(Á•Áz8ï‡Èü‘.
+V	java:S106¨"9Replace this use of System.out or System.err by a logger.(Ø¦ÙÔ8ï‡Èü‘.
+Y	java:S125Ü"<This block of commented-out lines of code should be removed.(ÛøÖ8ï‡Èü‘.
+z	java:S116i"^Rename this field "saucelabs_accesskey" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÑÎ8ï‡Èü‘.
+€
+java:S1104h"^Make saucelabs_username a static final constant or non-public and provide accessors if needed.(Ø–áîøÿÿÿÿ8ï‡Èü‘.
+G
+java:S1481Û")Remove this unused "file" local variable.(¨é÷è8ï‡Èü‘.
+Y	java:S125ª"<This block of commented-out lines of code should be removed.(Œç¬•8ï‡Èü‘.
+T
+java:S2696‡"6Make the enclosing method "static" or remove this set.(Î°¸ó8ï‡Èü‘.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(‘±Ü×úÿÿÿÿ8ï‡Èü‘.
+O
+java:S1481â",Remove this unused "element" local variable.(¥Úóşÿÿÿÿ8ï‡Èü‘.
+N
+java:S1444*",Make this "public static extent" field final(ÆÍ¿…øÿÿÿÿ8ï‡Èü‘.
+i
+java:S2184Ÿ"FCast one of the operands of this multiplication operation to a "long".(Ä ¶ÿÿÿÿÿ8ï‡Èü‘.
+Y
+java:S2696œ"6Make the enclosing method "static" or remove this set.(Áç¸ÿøÿÿÿÿ8ï‡Èü‘.
+}
+java:S1488„"ZImmediately return this expression instead of assigning it to the temporary variable "st".(ş¦¯ûÿÿÿÿ8ï‡Èü‘.
+k	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¢ó÷8ï‡Èü‘.
+s	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ŞŒ‹ûÿÿÿÿ8ï‡Èü‘.
+w
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ âç8ï‡Èü‘.
+X	java:S125{"<This block of commented-out lines of code should be removed.(¶Ëùû8ï‡Èü‘.
+z
+java:S1488Ç"\Immediately return this expression instead of assigning it to the temporary variable "text".(Œ¼›8ï‡Èü‘.
+|
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(©‘ äüÿÿÿÿ8ï‡Èü‘.
+~
+java:S1104f"aMake browserstack_username a static final constant or non-public and provide accessors if needed.(§¥˜”8ï‡Èü‘.
+`
+java:S18545">Remove this useless assignment to local variable "methodName".(ÆÛÒşÿÿÿÿ8ï‡Èü‘.
+[
+java:S1854ê"8Remove this useless assignment to local variable "list".(“Ç¬üÿÿÿÿ8ï‡Èü‘.
+|
+java:S1104i"_Make saucelabs_accesskey a static final constant or non-public and provide accessors if needed.(éÑÎ8ï‡Èü‘.
+x
+java:S1488ÿ"ZImmediately return this expression instead of assigning it to the temporary variable "st".(âÛó8ï‡Èü‘.
+|
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ç¬üÿÿÿÿ8ï‡Èü‘.
+s	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÍè©øÿÿÿÿ8ï‡Èü‘.
+N
+java:S1444e",Make this "public static driver" field final(âØëÁıÿÿÿÿ8ï‡Èü‘.
+~	java:S116h"]Rename this field "saucelabs_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø–áîøÿÿÿÿ8ï‡Èü‘.
+s	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ı‚©úÿÿÿÿ8ï‡Èü‘.
+[	java:S106¹"9Replace this use of System.out or System.err by a logger.(§¬ëÿÿÿÿÿ8ï‡Èü‘.
+Y
+java:S1854ç";Remove this useless assignment to local variable "element".(Ò àá8ï‡Èü‘.
+Y
+java:S1854ì";Remove this useless assignment to local variable "element".(½Éı8ï‡Èü‘.
+|
+java:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ç¬üÿÿÿÿ8ï‡Èü‘.
+]	java:S125}"<This block of commented-out lines of code should be removed.(íŞùÿÿÿÿ8ï‡Èü‘.
+t
+java:S1104e"RMake driver a static final constant or non-public and provide accessors if needed.(âØëÁıÿÿÿÿ8ï‡Èü‘.
+^
+java:S1854Ì";Remove this useless assignment to local variable "element".(©‘ äüÿÿÿÿ8ï‡Èü‘.
+V	java:S106·"9Replace this use of System.out or System.err by a logger.(Ø¦ÙÔ8ï‡Èü‘.
+J
+java:S1481ç",Remove this unused "element" local variable.(Ò àá8ï‡Èü‘.
+^	java:S125ò"<This block of commented-out lines of code should be removed.(¿’€òşÿÿÿÿ8ï‡Èü‘.
+[
+java:S1854Æ"8Remove this useless assignment to local variable "list".(“Ç¬üÿÿÿÿ8ï‡Èü‘.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¾üûùÿÿÿÿ8ï‡Èü‘.
+[
+java:S1854ä"8Remove this useless assignment to local variable "list".(“Ç¬üÿÿÿÿ8ï‡Èü‘.
